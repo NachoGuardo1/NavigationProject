@@ -1,17 +1,8 @@
 export const colors = {
-  primary: "#A4A778",
-  secondary: "#9a9966",
+  primary: "#bebc98",
+  secondary: "#a5a476",
   terciary: "#CCD0B7",
-  textPrimary: "#CCD0B7",
+  textPrimary: "#2B271D",
   textPrimaryLigth: "#F7F7F3",
-  textSecondary: "#2B271D",
-  textTerciary: "#095E42",
+  textSecondary: "#3e4331",
 };
-
-//fondo : primary,
-//header: secondary,
-//drawer: intermedio
-//titulos: texto primario,
-//minimos detalles texto sec,
-//MealDetails: titulo//ingredientes titulo// ingredentes detalles
-//drawer: selected y no selected

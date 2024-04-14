@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     textAlign: "center",
     fontSize: 24,
     margin: 8,
-    color: colors.textSecondary,
+    color: colors.textPrimary,
   },
   buttonPressed: {
     opacity: 0.5,

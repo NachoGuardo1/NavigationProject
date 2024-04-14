@@ -48,7 +48,7 @@ export const MealDetailsScreen = ({ route, navigation }) => {
           <IconButton
             onPress={changeFavoriteHandler}
             icon={mealIsFavorite ? "star" : "star-outline"}
-            color={colors.textPrimaryLigth}
+            color={colors.textPrimary}
           />
         );
       },
@@ -90,7 +90,7 @@ const style = StyleSheet.create({
     fontSize: 24,
     margin: 8,
     textAlign: "center",
-    color: colors.textSecondary,
+    color: colors.textPrimary,
   },
   detailText: {
     color: colors.textSecondary,

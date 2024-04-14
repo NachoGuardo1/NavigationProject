@@ -29,9 +29,9 @@ const DrawerNavigator = () => {
         headerTintColor: colors.textPrimary,
         sceneContainerStyle: { backgroundColor: colors.primary },
         drawerContentStyle: { backgroundColor: colors.terciary },
-        drawerInactiveTintColor: colors.textSecondary,
+        drawerInactiveTintColor: colors.textPrimary,
         drawerActiveTintColor: colors.textPrimaryLigth,
-        drawerActiveBackgroundColor: "black",
+        drawerActiveBackgroundColor: colors.textPrimary,
       }}
     >
       <Drawer.Screen
